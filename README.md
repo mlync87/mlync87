@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Lynch</h1>
-<h3 align="center">An enthusiastic and creative full stack web developer from Lisburn, Northern Ireland</h3>
+<h3 align="center">Recently qualified full-stack software developer based in Northern Ireland looking for junior positions. 
+I have recently completed the six month full-stack software developer course with Boolean last month and I'm excited to start the next chapter in my career. Currently, I am designing websites for several small businesses in my local area. Through regular meetings with business owners and discussing their requirements for their websites, I have developed a sterling reputation for excellent time keeping, effective communication, and ensuring customer satisfaction. All while maintaining my own independent learning. In my spare time I am teaching myself unreal engine 5 and designing game levels for fun. I'm also adding new skills to my current stack through independent study (TailwindCSS). Through completing my course, I have ignited a real thirst for knowledge, and I am enjoying learning all aspects of software design and development.</h3>
 
 - 🔭 I’m currently working on **A Private business website**
 
